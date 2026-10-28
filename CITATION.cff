@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE Project"
+abstract: "A reproducible analysis project for LTEE variant calling by Chandra"
+type: software
+authors:
+  - given-names: "Chandra Prasetyo"
+    family-names: "Utomo"
+    email: "chandra.utomo@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0000-0001-5123-311X"
+repository-code: "https://github.com/cputomo/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
